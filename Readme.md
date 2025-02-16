@@ -18,7 +18,7 @@ This program is intended to be compiled and executed on Unix-based systems (Linu
 To compile the program, use the GCC compiler:
 
 ```sh
-gcc -o network_adapters network_adapters.c
+gcc -o network_adapters main.c
 ```
 
 ## Running the Program
